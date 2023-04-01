@@ -1,6 +1,5 @@
-SongLibJohn Bogart & Connor Holm
-Rutgers University
-2023
-CS 213
+SongLibrary <br/>
+John Bogart & Connor Holm 2023<br/>
 
-Saves data upon closing with x in top corner
+A local song library to save songs! Add new songs to your local playlist and listen to them anytime, no internet connection required! <br/>
+Requires latest version of JavaFX.
